@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ebd35a6ce73c81438ded9eb65250f6b
+timeCreated: 1462444055
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62203
+  packageName: Top Down Car Race Starter Kit
+  packageVersion: 1.0
+  assetPath: Assets/TopDownCar_MADEntertainment/Vehicle_Prefabs/Police.prefab
+  uploadId: 117089

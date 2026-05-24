@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 63d7fa97ab7b7d64eb850088b295d636
+timeCreated: 1462423094
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62203
+  packageName: Top Down Car Race Starter Kit
+  packageVersion: 1.0
+  assetPath: Assets/TopDownCar_MADEntertainment/CarController.cs
+  uploadId: 117089

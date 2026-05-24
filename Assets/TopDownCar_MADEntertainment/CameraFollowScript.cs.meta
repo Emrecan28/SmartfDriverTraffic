@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4b8a8f433d4e0f7439d05f791e393c74
+timeCreated: 1462423490
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62203
+  packageName: Top Down Car Race Starter Kit
+  packageVersion: 1.0
+  assetPath: Assets/TopDownCar_MADEntertainment/CameraFollowScript.cs
+  uploadId: 117089

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e482e9c10afae54498f20d00ac4d3d5d
+timeCreated: 1462446781
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62203
+  packageName: Top Down Car Race Starter Kit
+  packageVersion: 1.0
+  assetPath: Assets/TopDownCar_MADEntertainment/Vehicle_Prefabs/Ambulance.prefab
+  uploadId: 117089

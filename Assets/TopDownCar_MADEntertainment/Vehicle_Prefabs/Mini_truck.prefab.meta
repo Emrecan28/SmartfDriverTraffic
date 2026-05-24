@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4aa79d2c272d5b4190ab15ab4dcf371
+timeCreated: 1462444046
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62203
+  packageName: Top Down Car Race Starter Kit
+  packageVersion: 1.0
+  assetPath: Assets/TopDownCar_MADEntertainment/Vehicle_Prefabs/Mini_truck.prefab
+  uploadId: 117089
