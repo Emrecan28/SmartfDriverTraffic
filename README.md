@@ -22,6 +22,10 @@ Muhammed Nebil Arslan
 
 
 
+YAPTIKLARIMIZ
+
+
+
 \### Emrecan Garip (Takım Lideri)
 
 \- Oyun döngüsünü yönetti (menü → level seçimi → gameplay → win/lose) ve projeyi stabil tuttu
@@ -94,7 +98,7 @@ Stratejik Sabır: Karmaşık durumlarda hata payını minimize ederek ilerleme d
 
 GİTHUB:
 
-
+https://github.com/Emrecan28/SmartfDriverTraffic
 
 
 
